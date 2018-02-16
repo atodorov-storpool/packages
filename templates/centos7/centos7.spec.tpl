@@ -499,6 +499,8 @@ EOF
 /usr/lib/one/ruby/cloud/CloudServer.rb
 /usr/lib/one/ruby/cloud/CloudAuth/*
 
+/usr/lib/one/ruby/opennebula_driver.rb
+
 %{_datadir}/one/install_gems
 %{_datadir}/one/Gemfile
 %{_datadir}/one/Gemfile.lock
